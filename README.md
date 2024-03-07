@@ -16,12 +16,12 @@ Vocabulary size (V): I [1], like [2], AI [3], have [4], two [5], Machine [6], Le
 
 Sparse Matrix:
 
-|       I       |      Like     |    AI      |    have    |    two    |
-| ------------- | ------------- |------------| -----------| ----------|
-|      1        |       1       |     1      |     0      |      0    |
-|      1        |       0       |     0      |     1      |      1    | 
-
-
+| I | Like | AI | have | two| Machine | Learning | Models | love | software | engineering | and | programming | hate | design | patterns |
+| --| -- |--|--| --|--| --| -- |--|--| --|-- | --| -- |--|--|
+| 1 | 1 | 1 | 0 |  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0|
+| 1 | 0 | 0 | 1 |  1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0|
+| 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |
 Each row represents a sentence (document).
 
 How does counting the words help? Given a new document, count up #AI and #Software, for example, plot it on a graph and determine which side of the line the vector falls on (the AI or the SE)!
