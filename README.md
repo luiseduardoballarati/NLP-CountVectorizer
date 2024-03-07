@@ -22,6 +22,8 @@ Sparse Matrix:
 | 1 | 0 | 0 | 1 |  1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0|
 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 |
 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |
+
+
 Each row represents a sentence (document).
 
 How does counting the words help? Given a new document, count up #AI and #Software, for example, plot it on a graph and determine which side of the line the vector falls on (the AI or the SE)!
