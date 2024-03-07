@@ -7,10 +7,10 @@ The Count Vectorizer approach is one of the simplest algorithms there is for NLP
 
 A simple example:
 
-Doc1: I like AI. 
-Doc2: I have two Machine Learning Models.
-Doc3: I love sofware engineering and programming.
-Doc4: I hate design patterns.
+- Doc1: I like AI. 
+- Doc2: I have two Machine Learning Models.
+- Doc3: I love sofware engineering and programming.
+- Doc4: I hate design patterns.
 
 Vocabulary size (V): I [1], like [2], AI [3], have [4], two [5], Machine [6], Learning [7], Models [8], love [9], sofware [10], engineering [11], and [12]...
 
